@@ -54,6 +54,7 @@ evaluation_memories_llama
 ├── semantic-knn
 ├── themes
 ```
+And you could use gexf_view.py document to analyse the memory graph.
 Or you could see our example. We provide our llama model memory of the locomo dataset.
 
 # Retrieval 
