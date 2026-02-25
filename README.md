@@ -55,7 +55,7 @@ evaluation_memories_llama
 ├── themes
 ```
 And you could use gexf_view.py document to analyse the memory graph.
-Or you could see our example. We provide our llama model memory of the locomo dataset.
+Or you could see our example. We provide our llama model memory of the locomo dataset at the release.
 
 # Retrieval 
 Run inference with a single command. We use the add.py document in the evaluation/locomo/xMemory_search_framework.py, your deployment path is in the evaluation/.
